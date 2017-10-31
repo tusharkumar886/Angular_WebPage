@@ -1,0 +1,10 @@
+.btn-outline-info {
+  color: #5bc0de;
+  background-image: none;
+  background-color: transparent;
+  border-color: #5bc0de;
+}
+
+button:hover{
+  color: #5bc0de;
+}

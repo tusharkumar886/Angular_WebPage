@@ -1,0 +1,51 @@
+h1,h2{
+  font-family:"impact";
+  font-weight:"normal";
+  margin:0;
+  padding:0px;
+  text-transform:uppercase;
+  text-align:center;
+  color:#111111;
+}
+
+h1{
+  line-height:150px;
+  letter-spacing:-5px;
+  font-size:9.5em;
+  padding-top: 150px;
+  margin-bottom: 250px;
+}
+
+h2{
+  text-align:left;
+}
+
+#threeColumns{
+  overflow:hidden;
+  width:1000px;
+  margin:0px auto;
+  margin-bottom:100px;
+  padding: 30px 30px;
+  background:rgba(255,255,255,0.36);
+}
+
+#threeColumns h2{
+  padding:0px 9px 20px 0px;
+  font-size:40px;
+  letter-spacing: -2px;
+}
+
+#threeColumns #column1{
+  float:left;
+  margin-right:50px;
+  width:250px;
+}
+#threeColumns #column2{
+  float:left;
+  width:250px;
+}
+#threeColumns #column3{
+  float:right;
+  margin-right:50px;
+  width:250px;
+}

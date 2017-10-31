@@ -1,0 +1,9 @@
+div.image{
+  background-image: url('../../assets/road-asphalt-space-sky-56832.jpg');
+
+  height: 1000px;
+  background-repeat:no-repeat;
+  background-position:0;
+  background-attachment:fixed;
+  background-size:cover;
+}
