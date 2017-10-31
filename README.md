@@ -1,6 +1,6 @@
 # WebPage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+This project is to show a simple web page using angular components.
 
 ## Development server
 
